@@ -1,0 +1,63 @@
+
+.search {
+    display: flex;
+    height: 48px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: #f3f3f3;
+  }
+  
+.frame-6 {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-top: -3px;
+    margin-bottom: -3px;
+  }
+  
+.interface-search {
+    position: relative;
+    width: 20px;
+    height: 20px;
+  }
+  
+.filter-by-name-edu {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins", Helvetica;
+    font-weight: 400;
+    color: #9aa6ac;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 22px;
+    white-space: nowrap;
+    background: transparent;
+    border: none;
+    padding: 0;
+  }
+  
+.warning-circle {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    margin-top: -2px;
+    margin-bottom: -2px;
+  }
+  
+.vector {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 2px;
+    left: 2px;
+  }

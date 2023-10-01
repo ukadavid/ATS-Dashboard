@@ -1,0 +1,39 @@
+.application-stages {
+  display: flex;
+  width: 321px;
+  height: 40px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 4px 25px #1d4ed80d;
+}
+
+.text-wrapper-18 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #1d4ed8;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.arrow-caret-down-MD-2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.div-2 {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
